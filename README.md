@@ -1,4 +1,5 @@
 # Programs
 ## Made by **__Luca Kovács__**
 
-### The following projects were totally made by me (and a little help of my friends of course :) ) and they are for personal usage.
+### I am working on the following projects:
+- File Manager/Sorter //This program automatically places the file depending on its extension
